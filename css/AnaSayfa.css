@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    color: white;
+    background-image: url(../img/arkaekran.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.profil{
+    
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-image: url(../img/salim.jpg);
+    background-size: cover;
+    margin: auto;
+    margin-bottom: 20px;
+
+    
+}
+a{
+    padding-right: 50px;
+    float: right;
+    padding-top: 30px;
+    text-decoration: none;
+    color: white;
+    
+}
+.orta{
+   
+    width: 500px;
+    height: 500px;
+    margin-top: 60px;
+    background: rgba(0, 0, 0, .8);
+    margin: auto;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+
+}
+a:hover{
+    color: blue;
+    transition: 1s;
+}
+a{
+    transition: 1s;
+}
+.instagram{
+    margin-left: 170px;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/Instagram.png);
+    background-size: cover;
+    float: left;
+}
+.facebook{
+    margin-left: 10px;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/face.png);
+    background-size: cover;
+    float: left;
+}
+.twitter{
+    margin-left: 10px;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/twit.png);
+    background-size: cover;
+    float: left;
+}

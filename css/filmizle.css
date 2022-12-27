@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    color: white;
+    background-image: url(../img/arkaekran.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    padding-right: 50px;
+    float: right;
+    padding-top: 30px;
+    text-decoration: none;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.aksiyon{
+    width: 300px;
+    height: 400px;
+    background-image: url(../img/aksiyon2.jpg);
+    background-size: cover;
+    border: 1px solid black;   
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+   
+}
+.komedi{
+    width: 300px;
+    height: 400px;
+    background-image: url(../img/komedi.webp.crdownload);
+    background-size: cover;
+    border: 1px solid black;
+    margin-left: 40px;
+    border-radius: 20%;
+    transition: 1s;
+    text-decoration: none;
+    width: 300px;
+    height:400px;
+    display: inline-block;
+    
+}
+.korku{
+    width: 300px;
+    height: 400px;
+    background-image: url(../img/korku2.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    margin-left: 40px;
+    border-radius: 20%;
+    text-decoration: none;
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+   
+   
+}
+.aksiyon:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+.komedi:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+.korku:hover{
+    border: 1px solid white;
+    transition: 1s;  
+}
+.asecenek{
+    font-size: 20pt;
+    padding-right: 100px;
+    padding-top:170px ;
+    color: aqua;
+}
+a:hover{
+    color: blue;
+    transition: 1s;
+}
+a{
+    transition: 1s;
+}

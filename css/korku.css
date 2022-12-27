@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    color: white;
+    background-image: url(../img/arkaekran.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+.atop{
+    padding-right: 50px;
+    float: right;
+    padding-top: 30px;
+    text-decoration: none;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.Jaula{
+    width: 240px;
+    height: 350px;
+    background-image: url(../img/jaula.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    float: left;
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+}
+.EvindeBiriVar{
+    width: 240px;
+    height: 350px;
+    background-image: url(../img/ev.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    float: left;
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.HayalAdasi{
+    width: 240px;
+    height: 350px;
+    background-image: url(../img/hayal.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    float: left;
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.Habis{
+    width: 240px;
+    height: 350px;
+    background-image: url(../img/habis.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    float: left;
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+   
+   
+}
+.asecenek{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-left: 50px;
+    color: aqua;
+    margin-top: 20px;
+    width: 240px;
+    height: 350px;
+    display: inline-block;
+
+}
+.Jaula:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+.EvindeBiriVar:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+.HayalAdasi:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+.Habis:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+a:hover{
+    color: blue;
+    transition: 1s;
+}
+a{
+    transition: 1s;
+}

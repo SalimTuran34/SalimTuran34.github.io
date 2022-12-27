@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    color: white;
+    background-image: url(../img/arkaekran.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+.atop{
+    padding-right: 50px;
+    float: right;
+    padding-top: 30px;
+    text-decoration: none;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.Kim{
+    width: 240px;
+    height: 350px;
+    background-image: url(../img/kim.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    float: left;
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+}
+.Red{
+    width: 240px;
+    height: 350px;
+    background-image: url(../img/red.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    float: left;
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.Addams{
+    width: 240px;
+    height: 350px;
+    background-image: url(../img/addams.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    float: left;
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.Otel{
+    width: 240px;
+    height: 350px;
+    background-image: url(../img/otel.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    float: left;
+    border-radius: 20%;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+   
+   
+}
+.asecenek{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-left: 50px;
+    color: aqua;
+    margin-top: 20px;
+    width: 240px;
+    height: 350px;
+    display: inline-block;
+
+}
+.Kim:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+.Red:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+.Addams:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+.Otel:hover{
+    border: 1px solid white;
+    transition: 1s;
+}
+a:hover{
+    color: blue;
+    transition: 1s;
+}
+a{
+    transition: 1s;
+}
